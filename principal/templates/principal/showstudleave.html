@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+{%load static%}
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Student Leave</title>
+  <style>
+    /* Reset default margin and padding */
+    * {
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f0f0f0;
+    }
+
+    /* Style for the leave application details container */
+    .glass-neu-table {
+      position: relative;
+      background-color: rgba(154, 68, 31, 0.651);
+      box-shadow: 8px 8px 20px rgba(0, 0, 0, 0.1),
+                  -8px -8px 20px rgba(255, 255, 255, 0.5);
+      border-radius: 15px;
+      padding: 20px;
+      width: 800px;
+      margin: 50px auto;
+    }
+
+    .glass-neu-table h2 {
+      text-align: center;
+      font-size: 24px;
+      margin-bottom: 20px;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+
+    tr {
+      border-bottom: 1px solid #1e1d1d;
+    }
+
+    td {
+      padding: 20px;
+    }
+
+    td.label {
+      font-weight: bold;
+      width: 40%;
+    }
+
+    /* Pseudo-elements to create neumorphism effects */
+    .glass-neu-table::before,
+    .glass-neu-table::after {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 50%;
+      height: 100%;
+      background: rgba(255, 255, 255, 0.15);
+      border-radius: 15px;
+      pointer-events: none;
+    }
+
+    .glass-neu-table::after {
+      left: auto;
+      right: 0;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="glass-neu-table">
+    <h2>Student's Leave Application</h2>
+      <table id="customers">
+        <tr>
+          <th>Name</th>
+          <th>Date</th>
+          <th>Days</th>
+          <th>Leave Reason</th>
+        </tr>
+        {% for t in tf %}
+        <tr>
+          <td>{{t.name}}</td>
+          <td>{{t.date}}</td>
+          <td>{{t.days}}</td>
+          <td>{{t.leaveReason}}</td>
+        </tr>
+        {% endfor %}
+      </table>
+  </div>
+</body>
+
+</html>

@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Login</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .signup-container {
+            max-width: 600px;
+            width: 100%;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            background-color: #f9f9f9;
+        }
+        .signup-container h2 {
+            text-align: center;
+        }
+        .signup-form {
+            display: flex;
+            flex-direction: column;
+        }
+        .signup-form label {
+            margin-bottom: 8px;
+        }
+        .signup-form input {
+            padding: 10px;
+            margin-bottom: 16px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+        .signup-form button {
+            padding: 10px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        .signup-form button:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+
+<body>
+  <div class="signup-container">
+    <div style="text-align: center;"><h1>Teacher LogIn</h1></div>
+    <div class="inputs">
+      <form action="" method="post" novalidate class="signup-form">
+        {% csrf_token %}
+        {% for fm in form %}
+        {{fm.label_tag}} {{fm}} {{fm.errors|striptags}}
+        {% endfor %}
+        <br>
+            <button type="submit">Log In</button>
+      </form>
+    </div>
+    <br>
+    <a href="{% url 'student_sign_up' %}" style="text-align: right;">Don't have an account?</a>
+  </div>
+  
+  
+</body>
+</html>
+
