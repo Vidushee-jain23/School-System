@@ -30,30 +30,30 @@ Student Details: Displays student profiles with essential information and allows
 
 
 
-2.Staff Management:
+2. Staff Management:
 
 Registration: Allows administrators to add and manage staff members.
 Staff Details: Displays staff profiles with relevant information and allows for update and delete.
 
-3.Leave Management:
+3. Leave Management:
 
 Leave Applications: Allows students and staff to apply for leaves, and administrators can see those leaves.
 
-4.Feedback:
+4. Feedback:
 
 Feedback Forms: Enables students and staffs to provide feedback on various aspects of the school.
 
-5.Notice Board:
+5. Notice Board:
 
 Displays important announcements and updates from the school administration.
 
 ![notice](https://github.com/Vidushee-jain23/School-System/assets/77531786/b0755207-01b0-4247-b4ab-4731742daa13)
 
-6.Authentication and Security:
+6. Authentication and Security:
 
 User Authentication: Implements secure user authentication to protect sensitive data.
 
-7.Admin Panel:
+7. Admin Panel:
 
 Provides a user-friendly admin panel for school administrators to manage data and perform administrative tasks.
 
@@ -64,7 +64,7 @@ Provides a user-friendly admin panel for school administrators to manage data an
 
 
 
-8.User-Friendly Interface:
+8. User-Friendly Interface:
 
 Ensures an intuitive and visually appealing interface for all users to easily navigate and use the system.
 
