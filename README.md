@@ -20,7 +20,7 @@ Student Panel:
 ![student](https://github.com/Vidushee-jain23/School-System/assets/77531786/83ab8aac-b698-4f63-9b80-df0221c61100)
 
 
-1.Student Management:
+1. Student Management:
 
 Registration: Allows administrators to enroll new students and store their details like name, address, date of birth, etc.
 Student Details: Displays student profiles with essential information and allows for updates and delete.
