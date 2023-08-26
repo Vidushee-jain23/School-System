@@ -5,7 +5,7 @@ It typically includes features to handle student enrollment, staff enrollment, n
 Here's a brief overview of the main components of this project:
 
 
-![Home]<img src="image-url" alt="Image Description" width="300" height="200">
+![Home]<img src="image-url" alt="Image Description" width="500" height="500">
 (https://github.com/Vidushee-jain23/School-System/assets/77531786/edeedc86-92aa-47cc-a6fa-98a45b30f62d)
 
 
