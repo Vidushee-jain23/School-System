@@ -49,7 +49,17 @@ It ensures an intuitive and visually appealing interface for all users to easily
 </p><br><br>
 <p align="center">
 <img src="https://github.com/Vidushee-jain23/School-System/assets/77531786/b0755207-01b0-4247-b4ab-4731742daa13"  width="500">
-</p><br><br>
+</p><br>
+
+## **Tech Skills Used:**
+* Django
+* Pyhon
+* HTML
+* CSS
+<br>
+
+## **How to install and run the project:**
+
 
 
 
