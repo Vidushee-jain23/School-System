@@ -1,12 +1,34 @@
 # School-Management-System
 
+## **Objective:**<br>  
 A school management system using Django is a web application that helps schools to manage various aspects of their daily operations. 
 It typically includes features to handle student enrollment, staff enrollment, notice board, feedback and many more. 
-Here's a brief overview of the main components of this project:
+<br><br>
+<p align="center">
+<img src="https://github.com/Vidushee-jain23/School-System/assets/77531786/edeedc86-92aa-47cc-a6fa-98a45b30f62d" width="800">
+</p> <br>
 
+## **Description:**<br>
+* **Authentication and Security:**<br>
+It delivers user authentication and security.This ensures that the platform can be accessible exclusively to authorized individuals, enhancing the overall user experience and maintaining data integrity. It includes authentication for principal, teachers as well as students. <br><br>
 
-<img src="https://github.com/Vidushee-jain23/School-System/raw/main/assets/77531786/edeedc86-92aa-47cc-a6fa-98a45b30f62d.png" alt="Home" width="300">
+<img src="https://github.com/Vidushee-jain23/School-System/assets/77531786/54fbc07a-49d3-4cb0-bfc7-564f07a00cfe" width="500" height="300">
+<img src="https://github.com/Vidushee-jain23/School-System/assets/77531786/47e9f2f6-fe71-41b9-b2d8-0e1b79eabf74" width="500" height="300">
+<br> <br><br>
 
+* **Student Management**:<br>
+It allows administrators to enroll new students and store their details like name, address, date of birth, etc. Displays student profiles with essential information and allows for updates and delete.<br><br>
+
+<p align="center">
+<img src="https://github.com/Vidushee-jain23/School-System/assets/77531786/83ab8aac-b698-4f63-9b80-df0221c61100" width="800">
+</p><br><br>
+
+* **Staff Management:**
+It allows administrators to add and manage staff members. Displays staff profiles with relevant information and allows for update and delete.<br><br>
+
+<p align="center">
+<img src="https://github.com/Vidushee-jain23/School-System/assets/77531786/cd574774-1c78-40a9-bdee-71b3263c4b4e"  width="800">
+</p><br><br>
 
 
 Admin Panel:
@@ -14,27 +36,17 @@ Admin Panel:
 
 
 Teacher Panel:
-![teacher](https://github.com/Vidushee-jain23/School-System/assets/77531786/cd574774-1c78-40a9-bdee-71b3263c4b4e)
+![teacher]()
 
 
-Student Panel:
-![student](https://github.com/Vidushee-jain23/School-System/assets/77531786/83ab8aac-b698-4f63-9b80-df0221c61100)
 
-
-1. Student Management:
-
-Registration: Allows administrators to enroll new students and store their details like name, address, date of birth, etc.
-Student Details: Displays student profiles with essential information and allows for updates and delete.
 
 
 ![studentdata](https://github.com/Vidushee-jain23/School-System/assets/77531786/d6a3de70-403e-475e-835d-3a72ed25d0be)
 
 
 
-2. Staff Management:
 
-Registration: Allows administrators to add and manage staff members.
-Staff Details: Displays staff profiles with relevant information and allows for update and delete.
 
 3. Leave Management:
 
@@ -50,18 +62,12 @@ Displays important announcements and updates from the school administration.
 
 ![notice](https://github.com/Vidushee-jain23/School-System/assets/77531786/b0755207-01b0-4247-b4ab-4731742daa13)
 
-6. Authentication and Security:
-
-User Authentication: Implements secure user authentication to protect sensitive data.
+6. 
 
 7. Admin Panel:
 
 Provides a user-friendly admin panel for school administrators to manage data and perform administrative tasks.
 
-
-![studentSignup](https://github.com/Vidushee-jain23/School-System/assets/77531786/54fbc07a-49d3-4cb0-bfc7-564f07a00cfe)
-
-![login](https://github.com/Vidushee-jain23/School-System/assets/77531786/47e9f2f6-fe71-41b9-b2d8-0e1b79eabf74)
 
 
 
