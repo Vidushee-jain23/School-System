@@ -5,7 +5,8 @@ It typically includes features to handle student enrollment, staff enrollment, n
 Here's a brief overview of the main components of this project:
 
 
-![Home](https://github.com/Vidushee-jain23/School-System/assets/77531786/edeedc86-92aa-47cc-a6fa-98a45b30f62d)
+<img src="https://github.com/Vidushee-jain23/School-System/raw/main/assets/77531786/edeedc86-92aa-47cc-a6fa-98a45b30f62d.png" alt="Home" width="300">
+
 
 
 Admin Panel:
