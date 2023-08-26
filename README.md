@@ -12,9 +12,13 @@ It typically includes features to handle student enrollment, staff enrollment, n
 * **Authentication and Security:**<br>
 It delivers user authentication and security.This ensures that the platform can be accessible exclusively to authorized individuals, enhancing the overall user experience and maintaining data integrity. It includes authentication for principal, teachers as well as students. <br><br>
 
-<img src="https://github.com/Vidushee-jain23/School-System/assets/77531786/54fbc07a-49d3-4cb0-bfc7-564f07a00cfe" width="500" height="300">
-<img src="https://github.com/Vidushee-jain23/School-System/assets/77531786/47e9f2f6-fe71-41b9-b2d8-0e1b79eabf74" width="500" height="300">
-<br> <br><br>
+<p align="center">
+<img src="https://github.com/Vidushee-jain23/School-System/assets/77531786/54fbc07a-49d3-4cb0-bfc7-564f07a00cfe" width="700">
+</p>
+<p align="center">
+<img src="https://github.com/Vidushee-jain23/School-System/assets/77531786/47e9f2f6-fe71-41b9-b2d8-0e1b79eabf74" width="700">
+</p>
+<br><br><br>
 
 * **Student Management**:<br>
 It allows administrators to enroll new students and store their details like name, address, date of birth, etc. Displays student profiles with essential information and allows for updates and delete.<br><br>
@@ -30,15 +34,13 @@ It allows administrators to add and manage staff members. Displays staff profile
 <img src="https://github.com/Vidushee-jain23/School-System/assets/77531786/cd574774-1c78-40a9-bdee-71b3263c4b4e"  width="800">
 </p><br><br>
 
+* **Data Oversight:**
+The principal gains access to a centralized platform for managing student and teacher information, simplifying the administrative process.<br><br>
+
+
 
 Admin Panel:
 ![admin](https://github.com/Vidushee-jain23/School-System/assets/77531786/e45a6255-1dd3-4950-9d33-8b52df774586)
-
-
-Teacher Panel:
-![teacher]()
-
-
 
 
 
