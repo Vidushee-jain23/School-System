@@ -24,7 +24,7 @@ It delivers user authentication and security.This ensures that the platform can 
 It allows administrators to enroll new students and store their details like name, address, date of birth, etc. Displays student profiles with essential information and allows for updates and delete.<br><br>
 
 <p align="center">
-<img src="https://github.com/Vidushee-jain23/School-System/assets/77531786/83ab8aac-b698-4f63-9b80-df0221c61100" width="800">
+<img src="https://github.com/Vidushee-jain23/School-System/assets/77531786/83ab8aac-b698-4f63-9b80-df0221c61100" width="700">
 </p><br><br>
 
 * **Staff Management:**<br>
