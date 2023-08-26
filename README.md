@@ -27,21 +27,22 @@ It allows administrators to enroll new students and store their details like nam
 <img src="https://github.com/Vidushee-jain23/School-System/assets/77531786/83ab8aac-b698-4f63-9b80-df0221c61100" width="800">
 </p><br><br>
 
-* **Staff Management:**
+* **Staff Management:**<br>
 It allows administrators to add and manage staff members. Displays staff profiles with relevant information and allows for update and delete.<br><br>
 
 <p align="center">
 <img src="https://github.com/Vidushee-jain23/School-System/assets/77531786/cd574774-1c78-40a9-bdee-71b3263c4b4e"  width="800">
 </p><br><br>
 
-* **Data Oversight:**
+* **Data Oversight:**<br>
 The principal gains access to a centralized platform for managing student and teacher information, simplifying the administrative process.<br><br>
 
+<p align="center">
+<img src="https://github.com/Vidushee-jain23/School-System/assets/77531786/e45a6255-1dd3-4950-9d33-8b52df774586"  width="800">
+</p><br><br>
 
-
-Admin Panel:
-![admin](https://github.com/Vidushee-jain23/School-System/assets/77531786/e45a6255-1dd3-4950-9d33-8b52df774586)
-
+* **User-Friendly Interface:**<br>
+It ensures an intuitive and visually appealing interface for all users to easily navigate and use the system.
 
 
 ![studentdata](https://github.com/Vidushee-jain23/School-System/assets/77531786/d6a3de70-403e-475e-835d-3a72ed25d0be)
@@ -64,11 +65,6 @@ Displays important announcements and updates from the school administration.
 
 ![notice](https://github.com/Vidushee-jain23/School-System/assets/77531786/b0755207-01b0-4247-b4ab-4731742daa13)
 
-6. 
-
-7. Admin Panel:
-
-Provides a user-friendly admin panel for school administrators to manage data and perform administrative tasks.
 
 
 
