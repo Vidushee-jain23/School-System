@@ -60,22 +60,46 @@ It ensures an intuitive and visually appealing interface for all users to easily
 
 ## **How to install and run the project:**
 Initially create a virtual environment, <br>
-Command : virtualenv virtual_env_name
+```
+virtualenv virtual_env_name
+```
 <br>
 
 Activate the virtual environment, <br>
-Command : cd venv/Scripts/activate
+```
+cd venv/Scripts/activate
+```
 <br>
 
 Now install Django, <br>
-Command : pip install django
+```
+pip install django
+```
 <br>
 
 Outside the virtual environment, in the main directory start the project, <br>
-Command : django-admin startproject  project_name
+```
+django-admin startproject  project_name
+```
 <br>
 
 Now your project has been created. Create apps inside this project as your requirement.
+```
+python manage.py startapp myapp
+```
+<br>
+
+Now include app name inside the settings.py file. Now run this commands for creating databases after inlcuding all the model function for creating tables for database and create an admin, who can manage all the functions.
+```
+python manage.py makemigrations
+python manage.py migrate
+python manage.py createsuperuser
+```
+
+Run project
+```
+python manage.py runserver
+```
 
 
 
